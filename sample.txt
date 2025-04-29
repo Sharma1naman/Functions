@@ -1,0 +1,6 @@
+Learning Python is fun!
+Generators are memory efficient.
+Iterators are objects with a next() method.
+File handling is important in Python.
+Practice makes perfect.
+Keep exploring new concepts!
